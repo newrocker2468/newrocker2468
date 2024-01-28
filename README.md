@@ -13,7 +13,7 @@
         src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 </p>
 <p align="center">
-    - 🌱 I’m currently learning <b>React</b><br>
+    - 🌱 I’m currently learning <b>React Js</b> , <b>Mongo DB</b> and <b>Advance Express</b><br>
     - 📫 How to reach me <b>newrocker2468@gmail.com</b>
 </p>
 
