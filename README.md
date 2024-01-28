@@ -1,10 +1,16 @@
-<h1 align="center">Hi 👋, I'm Jaskaran</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=newrocker2468&label=Profile%20views&color=0e75b6&style=flat"
+<p align="left"> <img
+        src="https://komarev.com/ghpvc/?username=newrocker2468&label=Profile%20views&color=0e75b6&style=flat"
         alt="newrocker2468" /> </p>
+<h1 align="center">Hi 👋, I'm Jaskaran Singh</h1>
+<h4 align="center">As a Full Stack Developer from India, I love building web applications from scratch. I work on both
+    the front-end and back-end, which means I create the parts of the website you see and interact with, as well as the
+    server-side where data is stored and managed. I enjoy the challenge of solving problems and creating efficient,
+    user-friendly solutions. Every day, I learn something new and strive to improve my skills. I’m passionate about
+    coding and excited to be part of the ever-evolving world of technology.</h4>
+
 <p align="center">
     <img align="center" alt="Coding" width="700"
-    src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
+        src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 </p>
 
 
