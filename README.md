@@ -73,13 +73,13 @@
             alt="python" width="40" height="40" /> </a> </p>
 
 <p align="center"><img align="center"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=newrocker2468&show_icons=true&locale=en&layout=compact"
-        alt="newrocker2468" />
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=newrocker2468&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&layout=compact"
+        alt="newrocker2468"/>
     &nbsp;<img align="center" height="165px"
-        src="https://github-readme-stats.vercel.app/api?username=newrocker2468&show_icons=true&locale=en"
-        alt="newrocker2468" />
+        src="https://github-readme-stats.vercel.app/api?username=newrocker2468&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false"
+        alt="newrocker2468"/>
 </p>
 
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=newrocker2468&"
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=newrocker2468&theme=dracula&hide_border=false"
         alt="newrocker2468" /></p>
